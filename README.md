@@ -14,7 +14,7 @@ Each time an RPC is send out from an IFCO Service Center (SC), it starts a new t
 
 Assume the true mean of trip durations being 100 days.
 
-A key task to ensure the IFCO SmartCycle is efficient is to understand how many RPCs are being lost over a period of time so the pool can be replenished appropriately. The probability that an RPC is lost during a trip is called shrinkage rate.
+A key task to ensure the IFCO SmartCycle is efficient is to understand how many RPCs are being lost over a period of time so the _pool_ can be replenished appropriately. The probability that an RPC is lost during a trip is called shrinkage rate. Any non-lost RPC is considered part of the _pool_ no matter where it's current at or travelling.
 
 The methods applied to do this vary and complement each other. For the sake of simplicity, we concentrate on asset based methods in this challenge.
 
