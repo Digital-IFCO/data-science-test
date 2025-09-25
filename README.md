@@ -41,4 +41,5 @@ Your stakeholder tasks you with the following question, underlying scenario one:
 1. **Deliverables**
    - Turn in your all materials, code, presentation or visualization, Github is preferred.
    - Enclose clear instructions how to consume the material and how to reproduce your results.
+   - Prompts you made to AI coding assistants and other AI agents in a PROMPTs.md file. Separte prompts by --- and empty lines before and after each prompt.
 2. **Evaluation**: Your solution will be evaluated on accuracy, efficiency and clarity.
