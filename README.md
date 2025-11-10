@@ -26,15 +26,16 @@ Assume we can measure the rental date when an asset leaves an SC.
 Your stakeholder tasks you with the following question, underlying scenario one:
 
 - Develop a model to estimate the shrinkage rate, i.e. the probability of an asset not returning from a trip
-- Develop a model to estimate the pool size, i.e. the amount of assets available to IFCO at a given time.
+- Develop a model to estimate the pool size, i.e. the number of assets in circulation and in stock at IFCO.
 
 ## Questions / Hints
 
 - Illustrate your approach and ideas, possibly using simulated data.
 - Clearly mark your assumptions and reflect on risks that may impact your model.
-- Assume your audience contains non-tech managers but be prepared to illustrate your approach to fellow data scientists reviewing your work.
+- Discuss your results for practical applicability and how they could be integrated into regular business processes.
+- Your audience are non-tech managers but be prepared to illustrate your approach to fellow data scientists reviewing your work.
 - How are shrinkage rate and pool size related?
-- Bonus: How would switching to scenario two change your approach, which limitations would be introduced?
+- Bonus: How would switching to scenario two change your approach, which limitations are introduced and how would you adjust your model to accomodate best?
 
 ## Additional Instructions
 
