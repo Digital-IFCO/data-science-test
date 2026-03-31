@@ -43,3 +43,11 @@ Your stakeholder tasks you with the following question, underlying scenario one:
    - Enclose clear instructions how to consume the material and how to reproduce your results.
    - Prompts you made to AI coding assistants and other AI agents in a PROMPTs.md file. Separte prompts by --- and empty lines before and after each prompt.
 2. **Evaluation**: Your solution will be evaluated on accuracy, efficiency and clarity.
+
+## On the Use of AI Coding Assistants
+
+You are welcome to use agentic coding tools (Copilot, Claude Code, Cursor, etc.) — in fact, effective use of these tools is a valuable skill. However:
+
+- Include a `REVIEW.md` **written entirely by you** documenting where the agent's output required correction, what you changed, and why. This must reflect your own critical thinking — we evaluate your judgment, not the agent's output. AI-generated reviews defeat the purpose and will be apparent.
+- **The `PROMPTS.md` file is mandatory.** Include your full prompt chain. Submissions without a `PROMPTS.md` will be rejected, regardless of solution quality.
+- Be prepared to explain every modeling decision and assumption in the interview. If you can't defend a choice the agent made, it works against you.
